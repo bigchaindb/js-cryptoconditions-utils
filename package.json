@@ -4,7 +4,7 @@
   "description": "External utils for parsing cryptoconditions",
   "homepage": "https://www.bigchain.com/",
   "bugs": "https://github.com/bigchain/js-cryptoconditions-utils/issues",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "author": "BigchainDB Team <info@bigchaindb.com>",
   "files": [
     "*.md",
