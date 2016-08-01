@@ -4,7 +4,7 @@
         'transform-object-assign',
         'transform-object-rest-spread',
         ['transform-runtime', {
-            'polyfill': false,
+            'polyfill': true,
             'regenerator': true
         }]
     ],
